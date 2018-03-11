@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Sino-Herbs</title>
-    <link>http://localhost/about/</link>
+    <link>https://madsystem.github.io/tcm/about/</link>
     <description>Recent content in Abouts on Sino-Herbs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jul 2015 14:08:35 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://madsystem.github.io/tcm/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Chinesische Heilkunde Juhu</title>
-      <link>http://localhost/about/about/</link>
+      <link>https://madsystem.github.io/tcm/about/about/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
       
-      <guid>http://localhost/about/about/</guid>
+      <guid>https://madsystem.github.io/tcm/about/about/</guid>
       <description>BLLLA Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     

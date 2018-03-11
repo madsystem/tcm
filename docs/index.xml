@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sino-Herbs</title>
-    <link>http://localhost/</link>
+    <link>https://madsystem.github.io/tcm/</link>
     <description>Recent content on Sino-Herbs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://madsystem.github.io/tcm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>first</title>
-      <link>http://localhost/post/first/</link>
+      <link>https://madsystem.github.io/tcm/post/first/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
       
-      <guid>http://localhost/post/first/</guid>
+      <guid>https://madsystem.github.io/tcm/post/first/</guid>
       <description>Here is your fist post. The img value contain path to the image of this post Then place a matching image in static/img - e.g. static/img/dog.png</description>
     </item>
     
     <item>
       <title>second</title>
-      <link>http://localhost/post/second/</link>
+      <link>https://madsystem.github.io/tcm/post/second/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
       
-      <guid>http://localhost/post/second/</guid>
+      <guid>https://madsystem.github.io/tcm/post/second/</guid>
       <description>Override the default intro and contact backgrounds by putting images in these files:
 img/intro-bg.jpg img/contact-bg.jpg</description>
     </item>
     
     <item>
       <title>third</title>
-      <link>http://localhost/post/third/</link>
+      <link>https://madsystem.github.io/tcm/post/third/</link>
       <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
       
-      <guid>http://localhost/post/third/</guid>
+      <guid>https://madsystem.github.io/tcm/post/third/</guid>
       <description>Contact buttons will be automatically created if one or more [[params.social]] is configured in config.toml:
 title parameter sets the text to be displayed on the contact button icon parameter sets which Font Awesome icon will be displayed</description>
     </item>
     
     <item>
       <title>fourth</title>
-      <link>http://localhost/post/fourth/</link>
+      <link>https://madsystem.github.io/tcm/post/fourth/</link>
       <pubDate>Tue, 18 Jul 2017 14:53:21 +0200</pubDate>
       
-      <guid>http://localhost/post/fourth/</guid>
+      <guid>https://madsystem.github.io/tcm/post/fourth/</guid>
       <description>Contact buttons will be automatically created if one or more [[params.social]] is configured in config.toml:
 title parameter sets the text to be displayed on the contact button icon parameter sets which Font Awesome icon will be displayed</description>
     </item>
     
     <item>
       <title>Chinesische Heilkunde Juhu</title>
-      <link>http://localhost/about/about/</link>
+      <link>https://madsystem.github.io/tcm/about/about/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
       
-      <guid>http://localhost/about/about/</guid>
+      <guid>https://madsystem.github.io/tcm/about/about/</guid>
       <description>BLLLA Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     
     <item>
       <title>Impressum</title>
-      <link>http://localhost/impressum/</link>
+      <link>https://madsystem.github.io/tcm/impressum/</link>
       <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
       
-      <guid>http://localhost/impressum/</guid>
+      <guid>https://madsystem.github.io/tcm/impressum/</guid>
       <description>Impressum
 Angaben gemäß § 5 TMG
 Max Muster Musterweg 12345 Musterstadt
