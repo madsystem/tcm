@@ -1,0 +1,6 @@
+[submodule "landing-page-hugo"]
+	path = landing-page-hugo
+	url = https://github.com/crakjie/landing-page-hugo.git
+[submodule "themes/landing-page-hugo"]
+	path = themes/landing-page-hugo
+	url = https://github.com/crakjie/landing-page-hugo.git
